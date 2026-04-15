@@ -12,16 +12,20 @@ Aqui estão organizados os principais projetos que desenvolvi desde outubro de 2
 ✔️ Programas de aceleração de carreira
 ✔️ Desafios de código
 ✔️ Laboratórios de inovação
+
 Cada projeto explora diferentes tecnologias e metodologias do desenvolvimento de software moderno, com foco em web, mobile, backend, cloud, DevOps, bancos de dados, algoritmos e muito mais.
 
 🚀 Tecnologias e Ferramentas Utilizadas
+
 Linguagens: JavaScript,Java, Python, SQL, HTML, CSS
 Frameworks & Bibliotecas: React, React Native, 
 Banco de Dados: MySQL, MongoDB, PostgreSQL
 DevOps & Cloud: Docker, GitHub Actions, AWS, Oracle Cloud
 Arquiteturas: Clean Architecture, DDD, Hexagonal, Microservices
 Outras Ferramentas: Git, GitHub, Swagger, Postman, Figma
+
 🧠 Sobre a DIO
+
 A DIO (Digital Innovation One) é uma plataforma de ensino focada em desenvolver habilidades em tecnologia com foco em empregabilidade. Parceira de empresas como Santander, iFood, Carrefour, Potência Tech, Spread, Avanade e outras, oferece:
 
 Conteúdo 100% gratuito
@@ -32,6 +36,7 @@ Certificados reconhecidos pelo mercado
 Durante minha trajetória, pude aplicar conhecimentos em cenários reais e desafiadores, fortalecendo minha atuação como profissional de tecnologia.
 
 📂 Organização dos Projetos
+
 Os projetos estão organizados por tema, formação ou bootcamp, com pastas nomeadas de forma clara.
 Cada pasta contém:
 
